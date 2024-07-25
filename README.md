@@ -14,3 +14,8 @@ To View:
 
 Open in Power BI: Open the .pbix file using Power BI Desktop.
 Explore the Dashboard: Interact with the visualizations to explore Spotify data insights.
+
+Preview: 
+
+![image](https://github.com/user-attachments/assets/2e95fecd-34e7-4f4e-9a60-51b925f9e3a6)
+
